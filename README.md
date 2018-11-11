@@ -14,6 +14,7 @@ $ cp .env.example .env
 
 ## Usage
 Create a csv file with data to be processed according to the following template
+
 | ga:transactionId | ga:productSku | ga:quantityRefunded |
 |------------------|---------------|---------------------|
 | 123456           | ABC123        | 1                   |
