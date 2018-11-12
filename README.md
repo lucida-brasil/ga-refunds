@@ -1,3 +1,5 @@
+![Zoly](http://lucida-brasil.github.io/public/Images/zoly-logo.png)
+
 # Zoly - GA Refunds
 
 ## Installation
