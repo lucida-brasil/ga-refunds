@@ -23,6 +23,7 @@ Create a csv file with data to be processed according to the following template
 | 123457           | ABC123        | 1                   |
 
 A data.csv.example file is provided as an example.
+
 Send the data to Google Analytics
 ```
 $ python refund.py -f filnename.csv
